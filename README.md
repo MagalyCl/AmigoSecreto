@@ -1,8 +1,8 @@
-# 🎲 Sorteio de Amigos - Simples, Rápido e Eficiente
+# 🎲 Sorteio Amigo Secreto - Simples, Rápido e Eficiente
 
 # O Sorteio de Amigos é uma ferramenta intuitiva e funcional para realizar sorteios de maneira justa e eficiente. Seja para um sorteio de amigo secreto, formar equipes, escolher um responsável por uma tarefa ou apenas adicionar um toque de diversão ao dia a dia, este projeto proporciona uma solução dinâmica e acessível.
 
-![Ineteface do projeto amigo secreto](
+![Ineteface do projeto amigo secreto](https://github.com/MagalyCl/AmigoSecreto/blob/main/challenge-amigo-secreto_pt-main/assets/img.ams.png)
 
 # ✨ Funcionalidades
 
