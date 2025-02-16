@@ -8,12 +8,13 @@
 
 Adicionar Amigo: Adicione um novo nome à lista de amigos.
 
-Visualizar Lista: Veja todos os amigos adicionados em uma lista dinâmica.      
+Visualizar Lista: Veja todos os amigos adicionados em uma lista dinâmica.      <img src="" alt="Lista de amigos" width="400">
 
 Sortear Amigo: Realize um sorteio e descubra quem é o amigo escolhido.
 
 Limpar Lista: Limpe a lista de amigos e comece de novo.
 
+<img src="assets/tela_inicial_adicionar_amigos.png" alt="Botão limpar lista" width="400">
 
 # 🛠️ Tecnologias Utilizadas
 
