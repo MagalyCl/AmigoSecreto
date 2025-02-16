@@ -8,7 +8,10 @@
 
 Adicionar Amigo: Adicione um novo nome à lista de amigos.
 
-Visualizar Lista: Veja todos os amigos adicionados em uma lista dinâmica.      <img src="" alt="Lista de amigos" width="400">
+ <img src="https://github.com/MagalyCl/AmigoSecreto/blob/main/challenge-amigo-secreto_pt-main/assets/sorteio-de-nomes.gif" alt="Lista de amigos" width="400">
+
+
+Visualizar Lista: Veja todos os amigos adicionados em uma lista dinâmica.     
 
 Sortear Amigo: Realize um sorteio e descubra quem é o amigo escolhido.
 
